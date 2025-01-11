@@ -5,4 +5,5 @@ edition = "2024"
 
 [dependencies]
 num = "0.4.3"
+macros = {path = "./macros/"}
 
